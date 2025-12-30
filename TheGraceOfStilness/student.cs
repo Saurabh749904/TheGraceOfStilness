@@ -17,5 +17,7 @@ namespace TheGraceOfStilness
         public int Age { get; set; }
         public string Description { get; set; }
 
+        public bool isactive { get; set; }
+
     }
 }
